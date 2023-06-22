@@ -1,0 +1,28 @@
+h1 {
+    background: cyan;
+}
+
+.paragraph-1 {
+    font-size: 24pt;
+    color: #2c751a;
+    transform:rotate(350deg);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+    text-shadow: 2px 5px #10470b;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    font-weight: 250;
+    font-size: 22px;
+    font-family:'Courier New', Courier, monospace;
+}
